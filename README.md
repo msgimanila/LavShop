@@ -33,4 +33,4 @@ LAVShop is a fully fledged e-commerce platform for online merchants.
 
 #Automated Installation and Shop Configuration
 
-Please follow the steps below to install FlyMyShop on your web server
+ 
